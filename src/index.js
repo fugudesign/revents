@@ -4,7 +4,6 @@ import 'semantic-ui-css/semantic.min.css';
 import './index.css';
 import App from './app/layout/App';
 import registerServiceWorker from './registerServiceWorker';
-import {root} from 'postcss';
 
 const rootEl = document.getElementById('root');
 
