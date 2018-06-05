@@ -47,7 +47,6 @@ class EventListItem extends Component {
             onClick={deleteEvent(event.id)}
           />
           <Button
-            as="a"
             color="teal"
             floated="right"
             content="View"
